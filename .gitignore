@@ -8,7 +8,7 @@ log/
 public/
 data/
 ./database.js
-./.env
+.env
 Assignments/
 uploads/
 SubmitAssignments/
