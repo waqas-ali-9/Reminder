@@ -7,12 +7,8 @@ log/
 #upload dirs
 public/
 data/
-./database.js
 .env
-Assignments/
-uploads/
-SubmitAssignments/
 
 /public
-database.js
-database.js
+//database.js
+//database.js
